@@ -1,0 +1,7 @@
+*.exe
+tempCodeRunnerFile.*
+test.cpp
+.vscode
+Tests/*
+desktop.ini
+WIP/
